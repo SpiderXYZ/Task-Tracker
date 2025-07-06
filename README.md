@@ -49,5 +49,22 @@ A simple but powerful task management application built with React. This project
 
 - 3. **Start the development server:** 
     ```bash
-        npm start 
+        npm start
+
+## Live Demo Link 
+   https://task-tracker-sivakars-projects.vercel.app/
+
+## Screenshots
+
+   ![image](https://github.com/user-attachments/assets/14e9a967-387b-43ac-9ffd-df2af9933a74)
+   ![image](https://github.com/user-attachments/assets/5e259df5-a6c1-409c-a86e-3fd0569ae998)
+   ![image](https://github.com/user-attachments/assets/92fc3396-3f81-48e4-8b24-7e4ed2cacf02)
+   ![image](https://github.com/user-attachments/assets/10966722-35b0-4c9e-85d1-5cbcd614679b)
+   ![image](https://github.com/user-attachments/assets/01fe0ee9-94c8-40d5-a010-03eb8537bde8)
+   ![image](https://github.com/user-attachments/assets/a282b105-91ec-48f0-a926-934760422275)
+
+
+
+
+
 
